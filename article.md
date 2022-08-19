@@ -1,14 +1,13 @@
 ---
 title: 'Exploring aspects of place through sound mapping'
-date: '2021-01-01'
+date: '2021-11-01'
 anonymous: 'false'
 author: 
     - name: Sze Tsang
-      affiliation: Fake University
-      orcid: https://orcid.org/0000-0000-0000-0000
-      city: Coolac
+      affiliation: West Australian Academy of Performing Arts, Edith Cowan University
+      city: Perth
       country: Australia
-      email: fake.author@fake.edu.au
+      email: etizenette@gmail.com
 author-header: S. Tsang
 abstract: |
     Combining aural and visual elements of a place can be a
@@ -16,18 +15,18 @@ abstract: |
     geographical features that exist within a location. One way of combining
     these elements is through sound mapping and cartophony, where spatial
     and physical information is used as a way of representing an
-    individual\'s surroundings and realities of a place, and particularly
+    individual's surroundings and realities of a place, and particularly
     highlighting personal associations, emotions and memories. This paper
-    details the author\'s processes in incorporating place into
+    details the author's processes in incorporating place into
     compositional practice through a combination of field recordings and
     sonification. The Lost (2021) - an audio-visual contemplation of the
     sensation of loss and the subsequent feelings of dislocation, and how
-    these feelings related to the artist\'s own life experiences at the
+    these feelings related to the artist's own life experiences at the
     time. The Lost is a work partly based on a map of Perth from 1838,
-    detailing many of Perth\'s now-lost wetlands. This map was then sonified
+    detailing many of Perth's now-lost wetlands. This map was then sonified
     using Iannix (a graphical sequencer), and the sounds were processed and
     combined in Ableton Live (a Digital Audio Workstation) with a field
-    recording from the still-existing Herdman\'s Lake and sonified
+    recording from the still-existing Herdman's Lake and sonified
     longitudinal and latitude values of these lost wetlands. The Lost is an
     exploration of connections between artist, history and place, and how
     these aspects can inform the creation of a work. Through this practice,
@@ -38,6 +37,11 @@ bibliography: 'references'
 papersize: a4
 classoption: 12pt
 reference-section-title: 'References'
+year: 2022
+volume: 38
+number: 1
+article-no: 4
+published-date: '2022-08-19'
 ---
 
 # Introduction
@@ -50,7 +54,7 @@ immersion into a landscape can lead to the creation of multiple forms of
 dialogue - firstly, within the artist themselves as they process
 thoughts and emotions a landscape triggers within them, then secondly
 between the artist and the landscape as they forge navigational methods
-over the land\'s geography.
+over the land's geography.
 
 My practice has been focused on exploring methods of expressing the
 relationship between self and place through the creation of digital
@@ -78,7 +82,7 @@ Lost (2021).*
 
 # Place and Self-Reflective Practice
 
-Any discussion of place requires unpacking of the meaning of \'place\',
+Any discussion of place requires unpacking of the meaning of 'place',
 and how such a definition can be applicable universally. In the simplest
 sense, 'place' is used to refer to either a location or the occupation
 of said location, differentiated from the concept of 'space' due to its
@@ -118,16 +122,16 @@ coloured by various external expectations and internal processes:
 
 > Where the work created aims to produce, map out, or provide a reading
 > of what I term the biography of place, that is, its history,
-> encounters, its potential \... these types of work are often rooted,
+> encounters, its potential ... these types of work are often rooted,
 > locative and even cartographic in nature. Furthermore, it can be
 > suggested that these types of topocentric artworks can occur twofold:
 > firstly, as representations of place and secondly, as representations
 > in place. (Thurgill, 2016)
 
 Edward Relph offers a similar definition of place, conceptualising place
-as a \"centres of our immediate experiences of the world\" (Relph, 1976,
+as a "centres of our immediate experiences of the world" (Relph, 1976,
 p. 141). This definition of place acknowledges the immediacy in which
-\'place\' is felt by an individual. If a \'place\' can be defined as
+'place' is felt by an individual. If a 'place' can be defined as
 physical areas that play host to our experiences, then by extension it
 acts as a framework to understand place-specific and place-inspired
 works, which strive to replicate, represent and perhaps even invoke
@@ -140,7 +144,7 @@ boundaries. Much has been written about landscape and the human
 experience, particularly in regards to psychological and spiritual
 connections and landscape as a cultural construct. How a landscape is
 interpreted is heavily dependent on cultural context, or as Simon Schama
-describes, "\...constructions of the imagination projected onto wood and
+describes, "...constructions of the imagination projected onto wood and
 water and rock" (Schama, 1995, p 61).
 
 In essence, there is a broad duality in how landscape can be viewed -
@@ -162,10 +166,10 @@ environments. The advent of recording technology meant that artists were
 now also able to bring entire soundscapes from one area to another,
 through field recordings. Regarding the availability of recording
 technology, British composer David Toop noted how this changed the way
-composers could relate to sound and place: \"The fact that these noises
+composers could relate to sound and place: "The fact that these noises
 also began existing as recordings suggested you could use them as they
 were - not by imitating them with an oboe, but by actually bringing in
-the sounds themselves\" (Nichols, 2017). Being able to bring recordings
+the sounds themselves" (Nichols, 2017). Being able to bring recordings
 into works also changed the interaction between the listener and place,
 through developing greater awareness of sounds that occur. Toop
 continues:
@@ -199,7 +203,7 @@ presence of his existence as listener, even though his presence might
 not always be clearly audible to audiences. Feld explains that:
 
 > I am always part of my recordings. I can always listen to my
-> recordings and recover my breath, my bodily presence\...the recording
+> recordings and recover my breath, my bodily presence...the recording
 > is always the audible trace of my presence as a listener. My
 > recordings are always an archive of my history of listening and of the
 > history of listening that is being recorded. You could say that my
@@ -222,9 +226,9 @@ then be used by the artist in the creation of artefacts that channel
 these emotions and memories.
 
 There have been several composers who have explored field recordings as
-a form of self-reflexive practice, such as Luc Ferrari\'s *Presque Rien*
+a form of self-reflexive practice, such as Luc Ferrari's *Presque Rien*
 series (1967-1970, 1977), where Ferrari weaves narration over field
-recordings. Ferrari\'s first foray, *Presque rien, ou le lever du jour
+recordings. Ferrari's first foray, *Presque rien, ou le lever du jour
 au bord de la mer* *(Almost nothing, or daybreak at the seashore),*
 recorded in Vela Luka, Croatia and released in 1970, was an early
 demonstration of a field recording being used both as a part of
@@ -234,10 +238,10 @@ While in Vela Luka, Ferrari spent several weeks exploring the village
 and surrounds with his partner, Brunhild Meyer Ferrari. As they explored
 the area, Ferrari became increasingly drawn to the sonic environment and
 his responses to what was happening, and recorded for several mornings.
-As noted by Lawrence English in his essay about the work, \"In Presque
+As noted by Lawrence English in his essay about the work, "In Presque
 Rien No. 1, Ferrari perceived that his listening, as an affective and
 agentive performance within a given horizon, was not absolute or
-ongoing, but rather highly selective in attentiveness and temporality\"
+ongoing, but rather highly selective in attentiveness and temporality"
 (English, 2017, p 17).
 
 Two other artists who have explored field recordings and self-reflexive
@@ -252,9 +256,9 @@ Hildegard Westerkamp describes how she uses field recordings and their
 manipulation as a way to get in touch with her inner self:
 
 > In my electroacoustic compositions my inner voices speak and in that
-> form I have been able to make them public \... Seeing how many people
-> enjoy working in isolated environments \... tells me I am not the only
-> one who needs such a place to get in touch with the inner world \...
+> form I have been able to make them public ... Seeing how many people
+> enjoy working in isolated environments ... tells me I am not the only
+> one who needs such a place to get in touch with the inner world ...
 > Such a situation can potentially get us in touch with an inner
 > vitality and creative spirit*.* (Westerkamp, in McCartney, 1999, p
 > 402)
@@ -281,7 +285,7 @@ features of place act as triggers for personal history. A Large Slow
 River directs listeners along a certain, specific route, and during the
 soundwalk, listeners are encouraged to explore and engage with the
 historical, cultural and natural aspects of place. In some passages,
-Cardiff\'s narration is evocative in its shifting of temporality from
+Cardiff's narration is evocative in its shifting of temporality from
 past to present as a demonstration of the multi-layered nature of place.
 For instance, in one passage Cardiff narrates over the sound of crashing
 waves: "I'm at a beach on Lake Huron, my toes squishing into the
@@ -321,13 +325,13 @@ and cultural aspects to create a richer understanding of place and
 space.
 
 Before further discussion about the concept of sound mapping, it is
-important to consider how a \'map\' is defined. The common view of a
-\'map\' is a series of lines in gridded fashion that accurately plots
+important to consider how a 'map' is defined. The common view of a
+'map' is a series of lines in gridded fashion that accurately plots
 physical and spatial features onto a piece of paper or a screen. On a
-broader level, mapping is also about representing an individual\'s
+broader level, mapping is also about representing an individual's
 surroundings and realities of a place, and particularly highlighting the
 personal associations, emotions and memories a person has in their
-relationships with a place\'s physical and spatial features (Anderson
+relationships with a place's physical and spatial features (Anderson
 2016, para. 3). From this perspective, maps can also be viewed as a
 subjective abstraction of place, overlaying imagined landscapes with
 geographical features.
@@ -363,10 +367,10 @@ project combined photographs of the area, with recordings from residents
 discussing their memories of Sailortown prior to the development.
 Through this project, Anderson and Fagan found themselves uncovering
 lost buildings and landmarks through these personal stories. Anderson
-noted the project also, \"\...voiced great feelings of loss and
+noted the project also, "...voiced great feelings of loss and
 bereavement. It had been extremely difficult to accept the disappearance
 of Sailortown from Belfast's physical and psychological landscape, when
-at one time it had been their home\" (Anderson, 2016, para. 31).
+at one time it had been their home" (Anderson, 2016, para. 31).
 
 While sound maps can be used to document place on a literal level (i.e.
 documenting how a geographic location looks and sounds), they can also
@@ -381,46 +385,46 @@ relationships between sound and map, in its broadest definition as a
 visual representation of place and memory. Not only is there a
 recreation of geography, but there is also a recreation of the cultural
 aspects of place. In his paper examining sound mapping practice, Samuel
-Thulin describes the process as, \"An expanded approach to phonography,
+Thulin describes the process as, "An expanded approach to phonography,
 one that takes in all sounds and their possible
 transformation...critical and creative approaches to mapping that
-recognise the malleability and relationality of cartographic forms\"
+recognise the malleability and relationality of cartographic forms"
 (Thulin, 2018, p. 205).
 
 Thulin describes five methods of sound mapping -- *sound-as-map*,
 *sound-into-map*, *map-into-sound*, maps-of-sound and *map-into-sound*
 (Thulin, 2018, p 196-7), two which are relevant to this paper:
 *sound-as-map* and *map-into-sound*. For Thulin, *sound-as-map* have a
-\"thorough engagement with acoustic aspects of places, often exploring
-an aurally-orientated \'deep mapping\' that layers multiple aspects of
-place\" (Thulin, 2018, p 196). Often these works contain one of, or a
+"thorough engagement with acoustic aspects of places, often exploring
+an aurally-orientated 'deep mapping' that layers multiple aspects of
+place" (Thulin, 2018, p 196). Often these works contain one of, or a
 multiple of the following - a collection of sounds spread over a
-specific geographical area, and using visitor\'s movements through sites
+specific geographical area, and using visitor's movements through sites
 (aka soundwalks) where their movements are integral to the work.
 
-An example of *sound-as-map* is Annea Lockwood\'s various works based on
+An example of *sound-as-map* is Annea Lockwood's various works based on
 river systems. For instance, in *Sound Map of the Hudson River* (1982),
 Lockwood aimed to communicate the trajectory of the river through sound
 by recording the river along 15 locations and documenting the various
 permutations of the river through its journey. In a later piece based on
 the Danube River titled *A Sound Map of the Danube* (2005), Lockwood
 wanted to record both the river itself, and the populace that lived
-along its banks, noting that, \"I decided in advance of recording that
-this time I would acknowledge this interdependence \[of river and
-river-dwellers\] by merging voice and river sounds\" (Lockwood, in
+along its banks, noting that, "I decided in advance of recording that
+this time I would acknowledge this interdependence [of river and
+river-dwellers] by merging voice and river sounds" (Lockwood, in
 Nagia, 2011, p 215). Lockwood expressed her desire to highlight this
 interdependence in an earlier piece of writing on the process of making
 the work:
 
 > The people I spoke with along the river came to seem as deeply a part
-> of the river\'s being as the geese and the herons, aquatic beetles,
-> carp, alder and willows\...here the voices are integrated into the
-> mix\... (Lockwood, 2007, p 43).
+> of the river's being as the geese and the herons, aquatic beetles,
+> carp, alder and willows...here the voices are integrated into the
+> mix... (Lockwood, 2007, p 43).
 
 *A Sound Map of the Danube* features 59 sites, each of them either on,
 or near the river. The work combines field recordings taken from these
 sites, alongside interviews by Lockwood where interviewees were asked,
-\'What does the river mean to you?\' (Lockwood, in Nagia, 2011, p 215).
+'What does the river mean to you?' (Lockwood, in Nagia, 2011, p 215).
 The album version of the work groups these sites into various tracks,
 which are marked on an included map (also containing translations from
 all interviews), but without time references. When listening to this
@@ -461,8 +465,8 @@ et al, 2008, p. 14). The artists note that sound can become an important
 element in these cartographic practices because:
 
 > Sound can create depth and space the way the image can only suggest
-> \... sound can provide tactile sensations through an enhanced bass
-> response, thereby 'touching' the listener from a distance \... More
+> ... sound can provide tactile sensations through an enhanced bass
+> response, thereby 'touching' the listener from a distance ... More
 > fundamentally, the soundscape of audio-visual media is like any other
 > text in that it communicates a narrative (Caquard et al, 2008, p. 4).
 
@@ -480,15 +484,15 @@ place.
 One of these such works is *The Lost (2021),* an audio-visual work
 contemplating the sensation of loss, and the subsequent feelings of
 dislocation. The work is based on a map of Perth from 1838, detailing
-many of Perth\'s former wetlands (since lost to in-filling and
+many of Perth's former wetlands (since lost to in-filling and
 development), which I sonified into a digital autonomous instrument
 using Iannix. This sonified map was combined with a field recording from
-Herdman\'s Lake - one of the remaining remnants of these wetlands - and
+Herdman's Lake - one of the remaining remnants of these wetlands - and
 sonified longitudinal and latitude values of where some of these lost
 wetlands would have been located.
 
-*The Lost* was initially inspired by a friend\'s comment about how some
-of Perth\'s lakes were connected before parts were filled in, which made
+*The Lost* was initially inspired by a friend's comment about how some
+of Perth's lakes were connected before parts were filled in, which made
 me explore more about how Perth appeared prior to colonisation.
 Pre-colonisation, the wetlands were inhabited by the Noongar people,
 served an important part of Noongar life as both as a camping area and
@@ -521,7 +525,7 @@ summary of these personal experiences:
 > 
 > Some of the losses were not a surprise. Some were sudden shocks. It didn't matter, the effect was still the same. The same dazzled silence. The holding pattern of number emotions as I processed the news.
 > 
-> I find myself repeatedly standing still with memories of the ones who have left Trying to process the latest loss. Trying to find a form of catharsis to channel these feelings.
+> I find myself repeatedly standing still with memories of the ones who have left. Trying to process the latest loss. Trying to find a form of catharsis to channel these feelings.
 
 As a way to embed the geographical features of place into the
 composition, I decided to sonify a map through rendering the image into
@@ -532,7 +536,7 @@ creating the work, I firstly used a map of Perth circa 1830 (Figure 1).
 
 To create the digital autonomous instrument, I used a program called
 Iannix, an open-sourced, real-time graphical sequencer, based on
-composer Iannis Xenakis\'s visual approach to composition. I was
+composer Iannis Xenakis's visual approach to composition. I was
 initially drawn to Iannix because I had been looking for ways to
 incorporate lines and shapes of a place into a composition. I became
 increasingly interested in the idea of turning image into sound, in the
@@ -572,7 +576,7 @@ where they were listening.
 
 Another way of incorporating place was to see where some of the vanished
 lakes would have existed in relation to modern-day Perth, then turning
-the latitude and longitude values into Hertz via Adobe Audition\'s tone
+the latitude and longitude values into Hertz via Adobe Audition's tone
 tool. To locate the wetlands, I turned to an interactive map of the
 Perth CBD called Gnarla Boodja Mili Mili (Figure 3), made to map Noongar
 places of significance in relation to current-day Perth. For the
@@ -593,8 +597,8 @@ Iannix would be driving a virtual synth.
 An important component of making the Iannix instrument was selecting the
 type of virtual instrument that would be driving the sound, as the sound
 of the sonified is both supporting and complementing the work as a
-whole. In considering this, I asked myself the question: \"What does
-this sound represent?\" For *The Lost*, I wanted to give the Iannix
+whole. In considering this, I asked myself the question: "What does
+this sound represent?" For *The Lost*, I wanted to give the Iannix
 instrument a sound that would highlight the fragility of place and
 memory. The sound I ultimately chose was one that was bright, but also
 brittle.
@@ -642,6 +646,10 @@ a dialogue about the history and meaning of place.
 
 # References
 
+```{=latex}
+\begin{hangparas}{1.5em}{1}
+```
+
 Agnew, J.A. (2011). Space and Place. In J. Agnew and D. Livingstone
 eds., *The SAGE Handbook of Geographical Knowledge*, Sage Publications.
 
@@ -666,7 +674,7 @@ https://cardiffmiller.com/walks/a-large-slow-river/
 Carlyle, A. and Lane, C. (Eds.). (2013). *In The Field: The Art of Field
 Recording*. UniformBooks.
 
-Coduys, T. and Ferry, G. (2004, October 20) IanniX --
+Coduys, T. and Ferry, G. (2004, October 20) IanniX---
 Aesthetical/Symbolic visualisations for hypermedia compositions \[Paper
 presentation\]. Sound and Music Computing Conference, Paris France.
 
@@ -692,7 +700,7 @@ During *Presque Rien No. 1.* Leonardo Music Journal, 27, 17-20.
 
 Findlay-Walsh, I. (2018). Sonic Autoethnographies: Personal listening as
 compositional context. Organised Sound, 23(1), 121-130.
-[https://doi:10.1017/S1355771817000371](https://doi:10.1017/S1355771817000371)
+<https://doi:10.1017/S1355771817000371>
 
 Lockwood, A. (2007) What is a River. *Soundscape: The Journal of
 Acoustic Ecology,* 7(1), 43-44.
@@ -713,7 +721,7 @@ Music*.
 <https://www.prsformusic.com/m-magazine/features/found-sound-noise-art/>
 
 Perth Wetlands Map. (2011, March 13). In *Wikipedia*
-[https://en.wikipedia.org/wiki/Perth_Wetlands#/media/File:Perth_Wetlands_Map1.png](https://en.wikipedia.org/wiki/Perth_Wetlands%23/media/File:Perth_Wetlands_Map1.png)
+<https://en.wikipedia.org/wiki/Perth_Wetlands#/media/File:Perth_Wetlands_Map1.png>
 
 Relph, E. C. (1976). *Place and Placelessness*. Pion.
 
@@ -732,3 +740,7 @@ China.
 Western Australian Museum. (n.d.) Reimagining Perth's Lost Wetlands --
 Aboriginal Context - Nyoongar.
 <https://museum.wa.gov.au/explore/wetlands/aboriginal-context/noongar>
+
+```{=latex}
+\end{hangparas}
+```

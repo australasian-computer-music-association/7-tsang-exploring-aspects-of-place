@@ -1,11 +1,12 @@
 DOC_NAME=article.md
-OUT_NAME=rendered-article
+OUT_NAME=7-tsang-exploring-aspects-of-place
 REFS_FILE=references.bib
 CSL_FILE=templates/apa.csl
 LATEX_TEMPLATE=templates/chroma-article.tex
 DOCX_TEMPLATE=templates/custom-reference.docx
 HTML_TEMPLATE=templates/template.html
-PANDOC_ARGS=--bibliography $(REFS_FILE) --csl $(CSL_FILE) --variable=numbersections --variable=indent --number-sections --citeproc 
+HTML_CSS=templates/pandoc.css
+PANDOC_ARGS=--bibliography $(REFS_FILE) --csl $(CSL_FILE) --variable=numbersections --variable=indent --number-sections --citeproc --listings
 
 .PHONY: all
 all: pdf html
@@ -20,7 +21,7 @@ tex:
 
 .PHONY: html
 html:
-	pandoc --self-contained --template=$(HTML_TEMPLATE) $(PANDOC_ARGS) $(DOC_NAME) -o $(OUT_NAME).html
+	pandoc --self-contained --template=$(HTML_TEMPLATE) $(PANDOC_ARGS) $(DOC_NAME) -o $(OUT_NAME).html --css $(HTML_CSS)
 
 .PHONY: docx
 docx:

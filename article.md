@@ -391,7 +391,7 @@ transformation...critical and creative approaches to mapping that
 recognise the malleability and relationality of cartographic forms"
 (Thulin, 2018, p. 205).
 
-Thulin describes five methods of sound mapping -- *sound-as-map*,
+Thulin describes five methods of sound mapping---*sound-as-map*,
 *sound-into-map*, *map-into-sound*, maps-of-sound and *map-into-sound*
 (Thulin, 2018, p 196-7), two which are relevant to this paper:
 *sound-as-map* and *map-into-sound*. For Thulin, *sound-as-map* have a
@@ -532,7 +532,7 @@ composition, I decided to sonify a map through rendering the image into
 a digital autonomous musical instrument. To begin the process of
 creating the work, I firstly used a map of Perth circa 1830 (Figure 1).
 
-![A map of Perth circa 1830, showing the wetlands. (Perth Wetlands Map, 2011).](media/figure-1.png)
+![A map of Perth circa 1830, showing the wetlands. (Perth Wetlands Map, 2011). CC0 1.0.](media/figure-1.png)
 
 To create the digital autonomous instrument, I used a program called
 Iannix, an open-sourced, real-time graphical sequencer, based on
@@ -585,7 +585,7 @@ of a map of Perth from 1838 with modern-day Perth, and this overlay gave
 a very clear idea of where the lost lakes (and its accompanying lost
 history) formerly existed.
 
-![A map of Perth from 1838 overlaid on a map of current-day Perth, from Gnarla Boodja Mili Mili. (Department of Local Government, Sport, and Cultural Industries (n.d.)).](media/figure-3.png)
+![A map of Perth from 1838 overlaid on a map of current-day Perth, from Gnarla Boodja Mili Mili. (Department of Local Government, Sport, and Cultural Industries (n.d.)).](media/figure-3.jpg)
 
 I assembled all the above sounds together in Ableton Live, a digital
 audio workstation that allows for composition and audio editing. I added
@@ -619,7 +619,7 @@ pulsating, phasing beat. I wanted this effect to create a sense of
 dislocation that can happen from loss - a paradoxical feeling that time
 is both standing still yet moving.
 
-The full piece can be heard here: https://doi.org/10.5281/zenodo.5596343
+The full piece can be heard here: <https://doi.org/10.5281/zenodo.5596343>
 
 # Concluding thoughts
 
@@ -688,7 +688,7 @@ communication. *Convergencia Revista de Ciencias Sociales*, 21(64),
 <https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-14352014000100001>
 
 Department of Local Government, Sport, and Cultural Industries (n.d.)
-Gnarla Boodja Mili Mili (Our Country on Paper) <https://www.dlgsc.wa.gov.au/department/publications/publication/gnarla-boodja-mili-mili-(our-country-on-paper>
+Gnarla Boodja Mili Mili (Our Country on Paper) <https://gnarlaboodjamap.dlgsc.wa.gov.au>
 
 Droumeva, M. (2017). Soundmapping as critical cartography: Engaging
 publics in listening to the environment. *Communication and the Public*,

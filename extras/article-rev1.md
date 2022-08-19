@@ -1,44 +1,26 @@
----
-title: 'Exploring aspects of place through sound mapping'
-date: '2021-01-01'
-anonymous: 'false'
-author: 
-    - name: Sze Tsang
-      affiliation: Fake University
-      orcid: https://orcid.org/0000-0000-0000-0000
-      city: Coolac
-      country: Australia
-      email: fake.author@fake.edu.au
-author-header: S. Tsang
-abstract: |
-    Combining aural and visual elements of a place can be a
-    powerful way of exploring the intersections of time, history and
-    geographical features that exist within a location. One way of combining
-    these elements is through sound mapping and cartophony, where spatial
-    and physical information is used as a way of representing an
-    individual\'s surroundings and realities of a place, and particularly
-    highlighting personal associations, emotions and memories. This paper
-    details the author\'s processes in incorporating place into
-    compositional practice through a combination of field recordings and
-    sonification. The Lost (2021) - an audio-visual contemplation of the
-    sensation of loss and the subsequent feelings of dislocation, and how
-    these feelings related to the artist\'s own life experiences at the
-    time. The Lost is a work partly based on a map of Perth from 1838,
-    detailing many of Perth\'s now-lost wetlands. This map was then sonified
-    using Iannix (a graphical sequencer), and the sounds were processed and
-    combined in Ableton Live (a Digital Audio Workstation) with a field
-    recording from the still-existing Herdman\'s Lake and sonified
-    longitudinal and latitude values of these lost wetlands. The Lost is an
-    exploration of connections between artist, history and place, and how
-    these aspects can inform the creation of a work. Through this practice,
-    the author aims to explore how sound and visual elements can combine and
-    resonate with the other, and how such a practice can highlight the
-    connections between artist and place.
-bibliography: 'references'
-papersize: a4
-classoption: 12pt
-reference-section-title: 'References'
----
+***Abstract:** Combining aural and visual elements of a place can be a
+powerful way of exploring the intersections of time, history and
+geographical features that exist within a location. One way of combining
+these elements is through sound mapping and cartophony, where spatial
+and physical information is used as a way of representing an
+individual\'s surroundings and realities of a place, and particularly
+highlighting personal associations, emotions and memories. This paper
+details the author\'s processes in incorporating place into
+compositional practice through a combination of field recordings and
+sonification. The Lost (2021) - an audio-visual contemplation of the
+sensation of loss and the subsequent feelings of dislocation, and how
+these feelings related to the artist\'s own life experiences at the
+time. The Lost is a work partly based on a map of Perth from 1838,
+detailing many of Perth\'s now-lost wetlands. This map was then sonified
+using Iannix (a graphical sequencer), and the sounds were processed and
+combined in Ableton Live (a Digital Audio Workstation) with a field
+recording from the still-existing Herdman\'s Lake and sonified
+longitudinal and latitude values of these lost wetlands. The Lost is an
+exploration of connections between artist, history and place, and how
+these aspects can inform the creation of a work. Through this practice,
+the author aims to explore how sound and visual elements can combine and
+resonate with the other, and how such a practice can highlight the
+connections between artist and place.*
 
 # Introduction
 
@@ -511,24 +493,47 @@ experience of loss.
 In my personal reflections while creating the piece, I wrote a short
 summary of these personal experiences:
 
-> The first loss was in January 2020. It was my grandmother, the person who helped raise me through childhood. We were close, but like the lost wetlands of Perth, time had faded her memory. Alzheimer's had taken hold, reduced her memories to remnants and scrubbed away her identity and self.                                                    
-> 
-> When I heard the news, I felt disoriented and dislocated. Life was happening around me - yet there was a profound feeling of disruption, that something has irrevocably changed in my life. I was both standing still with my memories, yet going through the motions of everyday life.
-> 
-> Eventually that feeling of disorientation subsided... but only for a moment.
-> 
-> The losses continued. 2020 became the year of mourning as friends---near and far---began departing this mortal realm. I began to dread those evening messages and phone calls, telling me of the next person to have passed. Of the condolences on social media. Of people similarly battling with their shock and dismay.
-> 
-> Some of the losses were not a surprise. Some were sudden shocks. It didn't matter, the effect was still the same. The same dazzled silence. The holding pattern of number emotions as I processed the news.
-> 
-> I find myself repeatedly standing still with memories of the ones who have left Trying to process the latest loss. Trying to find a form of catharsis to channel these feelings.
++-----------------------------------------------------------------------+
+| The first loss was in January 2020. It was my grandmother, the person |
+| who helped raise me through childhood. We were close, but like the    |
+| lost wetlands of Perth, time had faded her memory. Alzheimer's had    |
+| taken hold, reduced her memories to remnants and scrubbed away her    |
+| identity and self.                                                    |
+|                                                                       |
+| When I heard the news, I felt disoriented and dislocated. Life was    |
+| happening around me - yet there was a profound feeling of disruption, |
+| that something has irrevocably changed in my life. I was both         |
+| standing still with my memories, yet going through the motions of     |
+| everyday life.                                                        |
+|                                                                       |
+| Eventually that feeling of disorientation subsided \... but only for  |
+| a moment.                                                             |
+|                                                                       |
+| The losses continued. 2020 became the year of mourning as friends -   |
+| near and far- began departing this mortal realm. I began to dread     |
+| those evening messages and phone calls, telling me of the next person |
+| to have passed. Of the condolences on social media. Of people         |
+| similarly battling with their shock and dismay.                       |
+|                                                                       |
+| Some of the losses were not a surprise. Some were sudden shocks. It   |
+| didn't matter, the effect was still the same. The same dazzled        |
+| silence. The holding pattern of number emotions as I processed the    |
+| news.                                                                 |
+|                                                                       |
+| I find myself repeatedly standing still with memories of the ones who |
+| have left Trying to process the latest loss. Trying to find a form of |
+| catharsis to channel these feelings.                                  |
++-----------------------------------------------------------------------+
 
 As a way to embed the geographical features of place into the
 composition, I decided to sonify a map through rendering the image into
 a digital autonomous musical instrument. To begin the process of
-creating the work, I firstly used a map of Perth circa 1830 (Figure 1).
+creating the work, I firstly used a map of Perth circa 1830 (figure 1).
 
-![A map of Perth circa 1830, showing the wetlands. (Perth Wetlands Map, 2011).](media/figure-1.png)
+\[insert figure 1\]
+
+Figure 1. A map of Perth circa 1830, showing the wetlands. (Perth
+Wetlands Map, 2011).
 
 To create the digital autonomous instrument, I used a program called
 Iannix, an open-sourced, real-time graphical sequencer, based on
@@ -561,7 +566,9 @@ also looping patterns and gaps between loops. All these options combined
 can give the digital autonomous instrument variety in sound, as each
 cursor is interacting differently in the space.
 
-![How the rendered map appears in Iannix (author supplied).](media/figure-2.png)
+\[insert figure 2\]
+
+Figure 2. How the rendered map appears in Iannix (author supplied).
 
 I also considered other ways of incorporating place into the work. One
 of the ways was to include a field recording that I recorded at Herdsman
@@ -581,7 +588,11 @@ of a map of Perth from 1838 with modern-day Perth, and this overlay gave
 a very clear idea of where the lost lakes (and its accompanying lost
 history) formerly existed.
 
-![A map of Perth from 1838 overlaid on a map of current-day Perth, from Gnarla Boodja Mili Mili. (Department of Local Government, Sport, and Cultural Industries (n.d.)).](media/figure-3.png)
+\[insert figure 3\]
+
+Figure 3. A map of Perth from 1838 overlaid on a map of current-day
+Perth, from Gnarla Boodja Mili Mili. (Department of Local Government,
+Sport, and Cultural Industries (n.d.)).
 
 I assembled all the above sounds together in Ableton Live, a digital
 audio workstation that allows for composition and audio editing. I added
@@ -599,7 +610,9 @@ instrument a sound that would highlight the fragility of place and
 memory. The sound I ultimately chose was one that was bright, but also
 brittle.
 
-![A still image of The Lost. (author supplied).](media/figure-4.png)
+\[insert figure 4\]
+
+Figure 4. A still image of The Lost. (author supplied).
 
 The completed piece (Figure 4) features the sonified map as the visual
 element of the work, with the piece beginning with an interplay of the
@@ -680,7 +693,9 @@ communication. *Convergencia Revista de Ciencias Sociales*, 21(64),
 <https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-14352014000100001>
 
 Department of Local Government, Sport, and Cultural Industries (n.d.)
-Gnarla Boodja Mili Mili (Our Country on Paper) <https://www.dlgsc.wa.gov.au/department/publications/publication/gnarla-boodja-mili-mili-(our-country-on-paper>
+Gnarla Boodja Mili Mili (Our Country on Paper)
+
+[[https://www.dlgsc.wa.gov.au/department/publications/publication/gnarla-boodja-mili-mili-(our-country-on-paper)]{.underline}](https://www.dlgsc.wa.gov.au/department/publications/publication/gnarla-boodja-mili-mili-(our-country-on-paper))
 
 Droumeva, M. (2017). Soundmapping as critical cartography: Engaging
 publics in listening to the environment. *Communication and the Public*,

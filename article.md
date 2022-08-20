@@ -7,7 +7,7 @@ author:
       affiliation: West Australian Academy of Performing Arts, Edith Cowan University
       city: Perth
       country: Australia
-      email: etizenette@gmail.com
+      email: netizenette@gmail.com
 author-header: S. Tsang
 abstract: |
     Combining aural and visual elements of a place can be a
@@ -178,7 +178,7 @@ continues:
 > normally expect to hear music that's deliberately separate from the
 > environment: a shocking gesture in one sense. But in another, it
 > forces the audience to listen to the world around them, and consider
-> those noises as performance (Toops, in Nichols, 2017).
+> those noises as performance (Toop, in Nichols, 2017).
 
 The idea of how composers can relate to sound and place can also extend
 to the process field recording itself, and the narratives existing
@@ -470,6 +470,7 @@ element in these cartographic practices because:
 > fundamentally, the soundscape of audio-visual media is like any other
 > text in that it communicates a narrative (Caquard et al, 2008, p. 4).
 
+
 # The Lost
 
 During the course of my practice, I have become increasingly preoccupied
@@ -490,6 +491,8 @@ using Iannix. This sonified map was combined with a field recording from
 Herdman's Lake - one of the remaining remnants of these wetlands - and
 sonified longitudinal and latitude values of where some of these lost
 wetlands would have been located.
+
+![A map of Perth circa 1830, showing the wetlands. (Perth Wetlands Map, 2011). CC0 1.0.](media/figure-1.png)
 
 *The Lost* was initially inspired by a friend's comment about how some
 of Perth's lakes were connected before parts were filled in, which made
@@ -531,8 +534,6 @@ As a way to embed the geographical features of place into the
 composition, I decided to sonify a map through rendering the image into
 a digital autonomous musical instrument. To begin the process of
 creating the work, I firstly used a map of Perth circa 1830 (Figure 1).
-
-![A map of Perth circa 1830, showing the wetlands. (Perth Wetlands Map, 2011). CC0 1.0.](media/figure-1.png)
 
 To create the digital autonomous instrument, I used a program called
 Iannix, an open-sourced, real-time graphical sequencer, based on

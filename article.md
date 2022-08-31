@@ -670,7 +670,7 @@ Geographical Information Science, 22 (11-12), 1219-1245.
 <https://doi.org/10.1080/13658810801909649>
 
 Cardiff, J. (n.d.) A Large Slow River.
-https://cardiffmiller.com/walks/a-large-slow-river/
+<https://cardiffmiller.com/walks/a-large-slow-river/>
 
 Carlyle, A. and Lane, C. (Eds.). (2013). *In The Field: The Art of Field
 Recording*. UniformBooks.
@@ -701,7 +701,7 @@ During *Presque Rien No. 1.* Leonardo Music Journal, 27, 17-20.
 
 Findlay-Walsh, I. (2018). Sonic Autoethnographies: Personal listening as
 compositional context. Organised Sound, 23(1), 121-130.
-<https://doi:10.1017/S1355771817000371>
+<https://doi.org/10.1017/S1355771817000371>
 
 Lockwood, A. (2007) What is a River. *Soundscape: The Journal of
 Acoustic Ecology,* 7(1), 43-44.
